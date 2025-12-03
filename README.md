@@ -1,12 +1,18 @@
-# thinkific-downloader
+# Thinkific Downloader (Browser Extension for Chrome, Firefox, Opera, Edge, Brave)
 
-This repository is being set up. README will be auto-generated soon.
+Download Thinkific videos from the platform or embedded anywhere online
 
-## Links
-- [Product Page](https://serp.ly/thinkific-downloader)
-- [GitHub Pages](https://serpapps.github.io/thinkific-downloader)
 
----
+
+
+## Related
+
+- [Repository](https://github.com/serpapps/thinkific-downloader)
+- [Thinkific Downloader Annoucement](https://gist.github.com/devinschumacher/d8eecdcd0b2326e9371e5b9ffe0f85b2)
+- [How to Download Thinkific Videos for Free](https://gist.github.com/devinschumacher/197805b63733a570539b587cdf229391)
+
+
+<details>
 
 # Thinkific Video Download Research: Technical Analysis of Stream Patterns, CDNs, and Download Methods
 
@@ -1669,3 +1675,7 @@ The methodologies and tools documented in this research provide a robust foundat
 **Last Updated**: September 2024  
 **Research Version**: 1.0  
 **Next Review**: December 2024
+
+
+
+</details>
