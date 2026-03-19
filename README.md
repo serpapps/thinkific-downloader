@@ -12,15 +12,15 @@ Thinkific Downloader is a browser extension built for students, creators, and te
 
 ## Links
 
-- 🚀 Get it here: [Thinkific Downloader](https://serp.ly/thinkific-downloader)
-- 🆕 Latest release: [GitHub Releases](https://github.com/serpapps/thinkific-downloader/releases/latest)
-- ❓ Help center: [SERP Help](https://help.serp.co/en/)
-- 🐛 Report bugs: [GitHub Issues](https://github.com/serpapps/thinkific-downloader/issues)
-- 💡 Request features: [Feature Requests](https://github.com/serpapps/thinkific-downloader/issues)
+- ðŸš€ Get it here: [Thinkific Downloader](https://serp.ly/thinkific-downloader)
+- ðŸ†• Latest release: [GitHub Releases](https://github.com/serpapps/thinkific-downloader/releases/latest)
+- â“ Help center: [SERP Help](https://help.serp.co/en/)
+- ðŸ› Report bugs: [GitHub Issues](https://github.com/serpapps/thinkific-downloader/issues)
+- ðŸ’¡ Request features: [Feature Requests](https://github.com/serpapps/thinkific-downloader/issues)
 
 ## Preview
 
-![Thinkific Downloader workflow preview](assets/workflow-preview.svg)
+![Thinkific Downloader workflow preview](assets/workflow-preview.webp)
 
 ## Table of Contents
 
