@@ -138,19 +138,19 @@ Start here: [https://serp.ly/thinkific-downloader](https://serp.ly/thinkific-dow
 
 ## FAQ
 
-**Can I download Thinkific videos from custom school domains?**  
+**Can I download Thinkific videos from custom school domains**  
 Yes. The extension is designed to work on Thinkific-powered schools, including many custom domains.
 
-**Do I need to press play first?**  
+**Do I need to press play first**  
 Yes. Many lesson streams are only exposed after playback begins.
 
-**What file format do downloads use?**  
+**What file format do downloads use**  
 Videos are saved as MP4 files.
 
-**Do I need extra software?**  
+**Do I need extra software**  
 No. Everything runs through the browser extension.
 
-**Can creators use it to archive their own courses?**  
+**Can creators use it to archive their own courses**  
 Yes. It can be used for creator-side backup workflows where you already have access to the lesson content.
 
 ## Notes
