@@ -10,6 +10,12 @@ Thinkific Downloader is a browser extension built for students, creators, and te
 - Choose from the quality levels exposed by the source
 - Keep local copies for offline study, review, or creator archives
 
+## Watch The Video
+
+<a href="https://www.youtube.com/watch?v=n2qRjjtwOh8" target="_blank">
+<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-download-thinkific-videos-and-course-content-for-free.jpg" width="700px">
+</a>
+
 ## Links
 
 - :rocket: Get it here: [Thinkific Downloader](https://serp.ly/thinkific-downloader)
@@ -20,7 +26,7 @@ Thinkific Downloader is a browser extension built for students, creators, and te
 
 ## Preview
 
-![Thinkific Downloader workflow preview](assets/workflow-preview.webp)
+![Thinkific Downloader workflow preview](https://raw.githubusercontent.com/serpapps/thinkific-downloader/refs/heads/main/assets/workflow-preview.webp)
 
 ## Table of Contents
 
