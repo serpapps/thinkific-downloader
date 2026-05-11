@@ -1,5 +1,11 @@
 # Thinkific Downloader (Browser Extension)
 
+## Watch the video
+
+<a href="https://www.youtube.com/watch?v=n2qRjjtwOh8" target="_blank">
+<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-download-thinkific-videos-and-course-content-for-free.jpg" width="700px">
+</a>
+
 > Download Thinkific lesson videos and supported embedded course videos as MP4 files for offline study.
 
 Thinkific Downloader is a browser extension built for students, creators, and teams who want a cleaner way to save Thinkific lesson videos for offline access. It works with supported Thinkific-hosted streams and common embedded lesson providers, giving you a browser-first workflow for detecting the video, choosing a quality, and exporting an MP4 file you can replay later.
