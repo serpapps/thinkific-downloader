@@ -1,4 +1,4 @@
-# Thinkific Downloader (Browser Extension)
+# Thinkific Video Downloader (Browser Extension)
 
 > Download Thinkific lesson videos and supported embedded course videos as MP4 files for offline study.
 
@@ -12,7 +12,7 @@ Thinkific Downloader is a browser extension built for students, creators, and te
 
 ## Links
 
-- :rocket: Get it here: [Thinkific Downloader](https://serp.ly/thinkific-downloader)
+- :rocket: Get it here: [Thinkific Downloader](https://serp.ly/thinkific-downloader?via=github)
 - :new: Latest release: [GitHub Releases](https://github.com/serpapps/thinkific-downloader/releases/latest)
 - :question: Help center: [SERP Help](https://help.serp.co/en/)
 - :beetle: Report bugs: [GitHub Issues](https://github.com/serpapps/thinkific-downloader/issues)
@@ -127,7 +127,7 @@ Refresh the lesson page, replay the video, and try again once the player is full
 - No credit card required for the trial
 - Unlimited downloads are available with a paid license
 
-Start here: [https://serp.ly/thinkific-downloader](https://serp.ly/thinkific-downloader)
+Start here: [https://serp.ly/thinkific-downloader?via=github](https://serp.ly/thinkific-downloader?via=github)
 
 ## Installation Instructions
 
