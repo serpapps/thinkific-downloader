@@ -1,171 +1,164 @@
-# Thinkific Video Downloader (Browser Extension)
+# Thinkific Video Downloader (Browser Extension) | How to Download Thinkific Videos
 
-> Download Thinkific lesson videos and supported embedded course videos as MP4 files for offline study.
+> Browser extension that downloads Thinkific lesson videos as MP4 from courses you are enrolled in, directly from the lesson page you have open.
 
-Thinkific Downloader is a browser extension built for students, creators, and teams who want a cleaner way to save Thinkific lesson videos for offline access. It works with supported Thinkific-hosted streams and common embedded lesson providers, giving you a browser-first workflow for detecting the video, choosing a quality, and exporting an MP4 file you can replay later.
+Thinkific Video Downloader is a browser extension for saving the Thinkific lessons you are enrolled in. Open a lesson, let the video load, click the extension and save the lesson as an MP4 for offline study.
 
-- Save Thinkific lesson videos as MP4 files
-- Download supported Thinkific-hosted streams from lesson pages
-- Capture supported embedded lesson videos from common course players
-- Choose from the quality levels exposed by the source
-- Keep local copies for offline study, review, or creator archives
-
-## Links
-
-- :rocket: Get it here: [Thinkific Downloader](https://serp.ly/thinkific-downloader?via=github)
-- :new: Latest release: [GitHub Releases](https://github.com/serpapps/thinkific-downloader/releases/latest)
-- :question: Help center: [SERP Help](https://help.serp.co/en/)
-- :beetle: Report bugs: [GitHub Issues](https://github.com/serpapps/thinkific-downloader/issues)
-- :bulb: Request features: [Feature Requests](https://github.com/serpapps/thinkific-downloader/issues)
-
-## Preview
+- Download Thinkific lesson videos as MP4
+- Built for Thinkific's Wistia-backed lesson player
+- Works on `*.thinkific.com` schools; custom-domain schools can be allowed once
+- Shows progress for each download
+- No converters or desktop software
 
 <a href="https://www.youtube.com/watch?v=n2qRjjtwOh8" target="_blank">
 <img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-download-thinkific-videos-and-course-content-for-free.jpg" width="700px">
 </a>
 
-## Table of Contents
+## Links
 
-- [Why Thinkific Downloader](#why-thinkific-downloader)
-- [Features](#features)
-- [How It Works](#how-it-works)
-- [Step-by-Step Tutorial: How to Download Videos from Thinkific](#step-by-step-tutorial-how-to-download-videos-from-thinkific)
-- [Supported Formats](#supported-formats)
-- [Who It's For](#who-its-for)
-- [Common Use Cases](#common-use-cases)
-- [Troubleshooting](#troubleshooting)
-- [Trial & Access](#trial--access)
-- [Installation Instructions](#installation-instructions)
-- [FAQ](#faq)
-- [Notes](#notes)
-- [About Thinkific](#about-thinkific)
+- :rocket: Get it here: [Thinkific Video Downloader](https://serp.ly/thinkific-downloader?via=github)
+- :new: Latest release: [GitHub Releases](https://github.com/serpapps/thinkific-downloader/releases/latest)
+- :question: Help center: [SERP Help](https://help.serp.co/en/)
+- :beetle: Report bugs: [GitHub Issues](https://github.com/serpapps/thinkific-downloader/issues)
+- :bulb: Request features: [Feature Requests](https://github.com/serpapps/thinkific-downloader/issues)
 
-## Why Thinkific Downloader
+## Why Thinkific Video Downloader
 
-Thinkific schools are designed for online course delivery, not for a clean student-side download workflow. Lesson videos are streamed, schools often use custom domains, and creators can mix native hosting with embedded players, which makes generic downloader tools inconsistent and frustrating to use.
+Thinkific lessons stream through an embedded player, so there is no "Save video" option, and course
+access can end when an enrollment or subscription does. Generic download sites cannot see lessons behind
+your login.
 
-Thinkific Downloader is built for that exact use case. It focuses on supported Thinkific lesson pages, detects the available lesson media in your browser session, and gives you a direct way to save accessible course content as MP4.
+Thinkific Video Downloader works inside your signed-in Thinkific tab, detects the lesson video and saves
+it as an MP4 to your computer.
 
 ## Features
 
-- Video detection for Thinkific lesson pages and course areas
-- Support for Thinkific-hosted lesson streams
-- Embedded lesson support where the platform exposes compatible sources
-- Quality selection for available stream resolutions
-- MP4 export for easier offline playback and sharing
-- In-page controls on supported video pages
-- Popup workflow for reviewing detected lesson media
-- Progress tracking during active downloads
-- Cross-browser support for Chrome, Edge, Brave, Opera, Firefox, Whale, and Yandex
+- **Lesson video download**: saves the video from the Thinkific lesson you have open
+- **Wistia-backed player**: built for the player Thinkific lessons use
+- **Custom-domain schools**: allow the school's site once when the popup asks
+- **Progress tracking**: see each download's progress
+- **MP4 output**: plays in any media player or on mobile
+- **Organized files**: saved to a `Thinkific` folder in your Downloads
+- **Private by design**: runs locally with your active session; course data is not uploaded
 
-## How It Works
+## Supported Browsers
 
-1. Install the extension from the latest release.
-2. Open a Thinkific lesson page with a video.
-3. Start playback so the extension can detect the lesson media.
-4. Open the popup or use the on-page control.
-5. Choose the quality you want.
-6. Download the lesson and save the final MP4 file locally.
+| Browser | Supported |
+|---|---|
+| Google Chrome | ✅ |
+| Microsoft Edge | ✅ |
+| Brave | ✅ |
+| Opera | ✅ |
+| Naver Whale | ✅ |
+| Yandex Browser | ✅ |
+| Firefox, Safari, mobile browsers | ❌ Not supported |
 
-## Step-by-Step Tutorial: How to Download Videos from Thinkific
+Works on Windows, macOS and Linux desktops. Every release ships one ZIP per browser
+(for example `thinkific-downloader-chrome.zip`).
 
-1. Install Thinkific Downloader from the latest GitHub release.
-2. Sign in to the Thinkific school where you already have access.
-3. Open the lesson page you want to save.
-4. Let the page load fully and press play on the lesson video.
-5. Click the extension button in your browser toolbar.
-6. Review the detected stream options for that lesson.
-7. Select the quality you want to keep.
-8. Start the download and wait for the MP4 export to finish.
-9. Open the saved file from your Downloads folder.
+## How to Download Thinkific Videos (Step-by-Step)
+
+1. Install the extension (see [Installation Instructions](#installation-instructions)) and sign in with your email.
+2. Sign in to Thinkific and open a lesson from a course you are enrolled in.
+3. Let the video player load (press play once).
+4. Click the extension icon and click **Download**. The MP4 is saved to a `Thinkific` folder in your Downloads.
+
+**Custom domain?** If the school uses its own web address, the popup asks you to allow the site once.
 
 ## Supported Formats
 
-- Input: Thinkific-hosted lesson streams
-- Input: Supported embedded lesson players on Thinkific pages
-- Output: MP4
-
-Saved files use MP4 so they are easier to replay on standard media players, move between devices, and keep in a local learning archive.
+- **Output:** MP4
+- **Source:** Thinkific's Wistia-backed lesson player
+- **Not saved:** captions, transcripts and course notes
 
 ## Who It's For
 
-- Thinkific students who want offline access to lessons
-- Course creators backing up their own uploaded training material
-- Teams archiving internal lessons or education portals
-- Users saving course videos before access changes
-- Anyone who wants a browser-based workflow instead of manual stream extraction
-
-## Common Use Cases
-
-- Save a Thinkific lesson for offline study
-- Download course videos before access expires
-- Archive your own uploaded lessons as a creator
-- Keep local copies for travel or low-connectivity study
-- Review purchased course content without streaming every time
+- **Students** who want offline copies of Thinkific courses they are enrolled in
+- **Professionals** keeping certification or training courses available offline
+- **Creators** backing up lessons on their own Thinkific school
 
 ## Troubleshooting
 
-**The extension is not detecting the lesson video**  
-Press play first and wait a few seconds so the stream has time to initialize.
+**The video doesn't start downloading**  
+Make sure you are signed in and enrolled, the video has fully loaded, then refresh and try again.
 
-**No quality options are showing**  
-Some lesson pages expose a single playable stream variant, especially on certain embedded players.
+**Nothing happens on a custom-domain school**  
+Click the extension icon on the lesson page and allow the site when asked, then reload.
 
-**The page uses a custom domain**  
-That is supported as long as the site is Thinkific-powered and the video source is exposed to the browser session.
+## Free Trial & Pricing
 
-**The lesson requires login or enrollment access**  
-The extension only works on content you can already access in your active Thinkific session.
+You get **3 free downloads a week** with no credit card. A **subscription** gives unlimited downloads, with updates included.
 
-**The download did not start**  
-Refresh the lesson page, replay the video, and try again once the player is fully loaded.
-
-## Trial & Access
-
-- Includes **3 free downloads** so you can test the workflow first
-- Email sign-in uses secure one-time password verification
-- No credit card required for the trial
-- Unlimited downloads are available with a paid license
-
-Start here: [https://serp.ly/thinkific-downloader?via=github](https://serp.ly/thinkific-downloader?via=github)
+- Sign in with your email and a one-time code; no password to create.
+- Your free downloads reset every week. In current versions only finished downloads count; a failed or cancelled download does not use one.
+- See current plans on the [product page](https://serp.ly/thinkific-downloader?via=github).
 
 ## Installation Instructions
 
-1. Open the latest release page:
-   [https://github.com/serpapps/thinkific-downloader/releases/latest](https://github.com/serpapps/thinkific-downloader/releases/latest)
-2. Download the extension build for your browser.
-3. Install the extension.
-4. Open a Thinkific lesson page.
-5. Use the extension controls to detect and download the video.
+1. Download the ZIP for your browser from the [latest release](https://github.com/serpapps/thinkific-downloader/releases/latest) (for example `thinkific-downloader-chrome.zip`).
+2. Unzip it. You get a folder that contains `manifest.json`.
+3. Open your browser's extensions page: `chrome://extensions` (Chrome), `edge://extensions` (Edge), `brave://extensions` (Brave), `opera://extensions` (Opera), `whale://extensions` (Whale) or `browser://extensions` (Yandex).
+4. Turn on **Developer mode**.
+5. Click **Load unpacked** and select the unzipped folder.
+6. Pin the extension, click its icon, and sign in with your email and the one-time code we send you.
+
+Prefer a guided setup? The [product page](https://serp.ly/thinkific-downloader?via=github) walks you through the same steps.
+When a newer version is published, the extension shows an update notice; download the new ZIP from
+[GitHub Releases](https://github.com/serpapps/thinkific-downloader/releases/latest) and load it the same way.
 
 ## FAQ
 
-**Can I download Thinkific videos from custom school domains?**  
-Yes. The extension is designed to work on Thinkific-powered schools, including many custom domains.
+### How do I download Thinkific videos?
 
-**Do I need to press play first?**  
-Yes. Many lesson streams are only exposed after playback begins.
+Open the lesson in your signed-in Thinkific account, let the video player load, then click the extension icon and click **Download**. The lesson is saved as an MP4.
 
-**What file format do downloads use?**  
-Videos are saved as MP4 files.
+### Can I download a whole Thinkific course?
 
-**Do I need extra software?**  
-No. Everything runs through the browser extension.
+The extension saves one lesson at a time. Open each lesson, let the video load and save it before moving on to the next.
 
-**Can creators use it to archive their own courses?**  
-Yes. It can be used for creator-side backup workflows where you already have access to the lesson content.
+### Does it work on Thinkific schools with their own domain?
+
+Yes. On a custom-domain school, click the extension icon and allow the site once when asked.
+
+### Where does the video file go?
+
+Into a `Thinkific` folder inside your browser's Downloads folder.
+
+### Do I need to install anything else?
+
+No. Everything runs inside the browser extension; no converters or external tools are needed.
+
+### Are captions or course notes included?
+
+No. Only the video is saved as MP4. Download captions and lesson materials from the course when available.
+
+### Which browsers are supported?
+
+Chrome, Edge, Brave, Opera, Whale and Yandex on Windows, macOS and Linux. Firefox, Safari and mobile browsers are not supported.
+
+### Is there a free trial?
+
+Yes. You get **3 free downloads a week** with no credit card. A **subscription** gives unlimited downloads, with updates included.
+
+## Notes
+
+- Only download content you own or have permission to save.
+- The extension works with videos your own account can already watch in the browser. It does not unlock paid, private or locked content.
+- Quality depends on what the source player serves; the extension cannot make a video sharper than the original.
+- Site updates can affect detection. If something stops working, [open an issue](https://github.com/serpapps/thinkific-downloader/issues) and include the page type (not private links).
 
 ## License
 
 This repository is distributed under the proprietary SERP Apps license in the [LICENSE](LICENSE) file. Review that file before copying, modifying, or redistributing any part of this project.
 
-## Notes
+## Related
 
-- Only download content you own or have explicit permission to save
-- The extension only works on media you can already play in your browser session
-- Video quality depends on the source stream exposed on that lesson page
-- An internet connection is required for the initial download
+- [Teachable Video Downloader](https://github.com/serpapps/teachable-video-downloader)
+- [Kajabi Video Downloader](https://github.com/serpapps/kajabi-video-downloader)
+- [Skool Video Downloader](https://github.com/serpapps/skool-downloader)
 
 ## About Thinkific
 
-Thinkific is a course platform used for memberships, online schools, and digital training programs. Because lessons are delivered through browser-based players and custom school setups, there is no simple universal built-in download flow for students. Thinkific Downloader simplifies that process for users who need a local MP4 copy of accessible lesson content.
+Thinkific is an online course platform that lets creators build and sell courses, communities and
+memberships on their own school site. Lessons stream in the browser without a download option. Thinkific
+Video Downloader saves the lessons you are enrolled in.
